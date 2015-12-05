@@ -15,5 +15,23 @@
   "dependencies": {
     "a-d-s-r": "^1.0.2",
     "make-distortion-curve": "^1.0.0"
-  }
+  },
+  "name": "touch-down-dance",
+  "description": "a lil kicker synthesizer, inspired by [Synthesising Drum Sounds with the Web Audio API by Chris Lowis](https://dev.opera.com/articles/drum-sounds-webaudio/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wham-js/touch-down-dance.git"
+  },
+  "keywords": [
+    "web audio",
+    "kick",
+    "football",
+    "drum"
+  ],
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wham-js/touch-down-dance/issues"
+  },
+  "homepage": "https://github.com/wham-js/touch-down-dance#readme"
 }
