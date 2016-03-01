@@ -17,8 +17,8 @@ other things that can be controlled through the update method:
 ```
     settings: {
 
-      freq: 250, // peak osc freq
-      endFreq: 0.000000000000000000001, // the end freq. idk why web audio hates 0.0 :/
+      freq: 100, // peak osc freq
+      endFreq: 30, // the end freq. idk why web audio hates 0.0 :/
       
       // SETTINGS for a-d-s-r module:
       attack: 0.000000000000000000001,

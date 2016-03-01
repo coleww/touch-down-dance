@@ -8,7 +8,7 @@ module.exports = function (ac, opts) {
     filter: ac.createBiquadFilter(),
     settings: {
       freq: 250,
-      endFreq: 0.000000000000000000001,
+      endFreq: 30,
       attack: 0.000000000000000000001,
       decay: 0.000000000000000000001,
       sustain: 0.12,
